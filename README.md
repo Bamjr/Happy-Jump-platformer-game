@@ -5,6 +5,8 @@ The happy jump game was made when i was in 7th grade which is the first ever gam
 
 ## 🕹️ Play the Game
 
+You can download the version you prefer!
+
 > 📱 Download the APK:  [HappyJumpMobile.apk](HappyJumpMobile.apk)
 >
 > 💻 Windows (PC):
