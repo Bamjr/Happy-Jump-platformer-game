@@ -5,10 +5,10 @@ The happy jump game was made when i was in 7th grade which is the first ever gam
 
 ## 🕹️ Play the Game
 
-> 📱 Download the APK:  [HappyJumpMobile.apk](https://github.com/Bamjr/Happy-Jump-platformer-game/releases)
+> 📱 Download the APK:  [HappyJumpMobile.apk](HappyJumpMobile.apk)
 >
 > 💻 Windows (PC):
-> [HappyJump.EXE](https://github.com/Bamjr/Happy-Jump-platformer-game/releases/download/v1.0/HappyJump.exe)
+> [HappyJump.EXE](HappyJump.exe)
 
 ## 🛠 Built With
 
